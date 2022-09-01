@@ -8,7 +8,6 @@ const Home = () => {
         <div className="home">
             <div className="title">
                 <h1>
-                    {/* <h4 className="subtitle">hello friends, I'm</h4> */}
                     <h1><span id="jay">Jay</span> Autus</h1>
                     <h4 className="subtitle">Full Stack Web Developer</h4>
                 </h1>

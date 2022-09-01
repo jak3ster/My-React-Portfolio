@@ -4,7 +4,7 @@ import './style.css';
 export const About = () => {
     return (
         <div className="about">
-            <h2>About Me! 👋</h2>
+            <h2 className="mt-5">About Me! 👋</h2>
             <strong>
                 🌱 I am currently a student at the University of California San Diego (UCSD)
                 to obtain a certificate in full stack development, completion in September 2022
@@ -18,7 +18,7 @@ export const About = () => {
                 with creating batch scripts to writing backend code in C#
             </strong>
 
-            <h2 className="mt-2"><img alt="code" width="56px"
+            <h2 className="mt-5 text-center"><img alt="code" width="56px"
                     src="https://img.icons8.com/color/344/source-code.png" /></h2>
 
             <h3>My Technical Skills, Languages and Tools</h3>
