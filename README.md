@@ -61,7 +61,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Demo and Links 📷
 
-* [Heroku](/)
+* [gh-pages](https://jak3ster.github.io/my-react-portfolio/)
 * [Github](https://github.com/jak3ster/my-react-portfolio/)
 
 ## Features 🧩
