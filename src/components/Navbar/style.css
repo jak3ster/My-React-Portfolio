@@ -63,7 +63,7 @@
 }
 
 .list-wrapper ul li a {
-    display: block;
+    /* display: block; */
     font-size: 24px;
     padding: 10px 0;
     color: whitesmoke;

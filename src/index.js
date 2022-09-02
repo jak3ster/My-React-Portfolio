@@ -5,13 +5,19 @@ import './index.css';
 import './animate.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
-import { BrowserRouter } from "react-router-dom";
+// import { BrowserRouter } from "react-router-dom";
 
+
+// ReactDOM.render(
+//     <BrowserRouter basename="/react-portfolio">
+//         <App />
+//     </BrowserRouter>,
+//     document.getElementById("root")
+// );
 
 ReactDOM.render(
-    <BrowserRouter basename="/react-portfolio">
+    <React.StrictMode>
         <App />
-    </BrowserRouter>,
-    document.getElementById("root")
+    </React.StrictMode>,
+    document.getElementById('root')
 );
-

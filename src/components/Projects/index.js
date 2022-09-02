@@ -13,7 +13,7 @@ const CardListItem = props => {
         <Col xs={12} sm={12} lg={4} mb={4} style={ marginBottom }>
             <div>
                 <div className="imageBox">
-                    <img src={`${process.env.PUBLIC_URL}` + props.Data.image} className="card-img-top border-bottom" alt={props.Data.alt} />
+                    <img src={props.Data.image} className="card-img-top border-bottom" alt={props.Data.alt} />
                 </div>
                 <div className="card-body mb-5 pl-0">
                     <h3>{props.Data.project_name}</h3>
