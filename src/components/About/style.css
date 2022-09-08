@@ -7,17 +7,17 @@ h1 {
     font-family: 'Roboto', sans-serif;
 }
 
-h2 {
+h3 {
     font-size: 60px;
     color: whitesmoke;
 }
-
+/* 
 h3{
     color: whitesmoke;
-}
+} */
 
 strong{
-    color: lightseagreen;
+    color: goldenrod;
 }
 .content {
     /* display: grid; */

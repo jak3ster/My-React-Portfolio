@@ -11,10 +11,10 @@ i {
 }
 
 i:hover {
-    color: darkkhaki;
+    color: grey;
 }
 
 p {
     padding-left: 15px;
-    color: lightseagreen;
+    color: goldenrod;
 }

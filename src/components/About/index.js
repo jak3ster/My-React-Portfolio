@@ -4,7 +4,7 @@ import './style.css';
 export const About = () => {
     return (
         <div className="about">
-            <h2 className="mt-5">About Me! 👋</h2>
+            <h3 className="mt-5">About Me! 👋</h3>
             <strong>
                 🌱 I am currently a student at the University of California San Diego (UCSD)
                 to obtain a certificate in full stack development, completion in September 2022

@@ -25,17 +25,19 @@ body {
 
 .card {
     width: 600px;
-    background-color: #fff;
+    background-color: darkcyan;
     border-radius: 3px;
     box-shadow: 0 2px 10px rgba(17, 34, 68, 0.06);
     overflow: hidden;
     z-index: 1;
 }
 
-h1 {
+h2 {
     margin: 1rem 1rem 0 !important;
     font-size: 2.5rem !important;
     text-align: center;
+    color: darkcyan !important;
+    font-weight:bolder !important;
 }
 
 .form {
@@ -49,9 +51,10 @@ h1 {
     border: none;
     border-radius: 3px;
     padding: 1ch;
-    font-size: 1rem;
-    color: #fff;
+    font-size: 18px;
+    color: whitesmoke;
     font-family: inherit;
+    font-weight: bolder;
 }
 
 .text-input {
@@ -73,7 +76,7 @@ h1 {
     position: absolute;
     top: 0;
     font-size: 0.9em;
-    color: #e14;
+    color: darkcyan;
     font-weight: bold;
     transform: translateY(-50%);
     background-color: #fff;
@@ -93,7 +96,7 @@ h1 {
 }
 
 .text-input input.input-focus {
-    border-color: #e14;
+    border-color: darkcyan;
 }
 
 .text-area {
@@ -115,7 +118,7 @@ h1 {
     position: absolute;
     top: 0;
     font-size: 0.9em;
-    color: #e14;
+    color: darkcyan;
     font-weight: bold;
     transform: translateY(-50%);
     background-color: #fff;
@@ -136,5 +139,5 @@ h1 {
 }
 
 .text-area textarea.input-focus {
-    border-color: #e14;
+    border-color: darkcyan;
 }

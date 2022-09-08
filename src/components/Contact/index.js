@@ -111,7 +111,7 @@ class Contact extends React.Component {
         return (
             <div className="container">
                 <Card>
-                    <h1>Send a Message!</h1>
+                    <h2>Send a Message!</h2>
                     <Form onSubmit={this.handleSubmit}>
                         <TextInput
                             {...name}
