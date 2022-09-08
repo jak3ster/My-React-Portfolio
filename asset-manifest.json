@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.c36e2031.css",
-    "main.js": "/my-react-portfolio/static/js/main.92a4d5ce.js",
+    "main.css": "/my-react-portfolio/static/css/main.2678f43e.css",
+    "main.js": "/my-react-portfolio/static/js/main.cc2bd3d5.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/my-react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/my-react-portfolio/index.html",
-    "main.c36e2031.css.map": "/my-react-portfolio/static/css/main.c36e2031.css.map",
-    "main.92a4d5ce.js.map": "/my-react-portfolio/static/js/main.92a4d5ce.js.map"
+    "main.2678f43e.css.map": "/my-react-portfolio/static/css/main.2678f43e.css.map",
+    "main.cc2bd3d5.js.map": "/my-react-portfolio/static/js/main.cc2bd3d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c36e2031.css",
-    "static/js/main.92a4d5ce.js"
+    "static/css/main.2678f43e.css",
+    "static/js/main.cc2bd3d5.js"
   ]
 }
